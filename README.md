@@ -1,5 +1,6 @@
 
 # Virtual Pet App
+![WELCOME GIF](https://github.com/Raracookz/imad-assingment-2/assets/162429322/9975ef2f-582a-4341-a1f2-f942d7bd230e)
 
 The importance of mobile applications in today's technologically advanced environment cannot be emphasized. They have brought about a significant change in our technological environment by transforming the way we communicate, work, and relax. This report outlines the development process for this new mobile application. The app aims to allow users into a game where they can play, feed, and clean a virtual pet while keeping a close eye on the pet's health, hunger, and cleanliness status. This report will cover the initial concept, design, development, testing, and deployment phases of the project.
 
