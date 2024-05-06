@@ -20,6 +20,7 @@ The original handheld electronic toy Tamagotchi, which became famous in the 1990
 -Status of pet section 
 
 ![screen_sharkeel](https://github.com/Raracookz/imad-assingment-2/assets/162429322/a77270bd-ebab-4aac-9ac3-c8927adace68)
+
 Each time the user clicks either one of the buttons, a different animation is displayed and the values of the status of the pet are changed. 
 
 ## Design Phase
